@@ -59,7 +59,7 @@ The brain tumor dataset used in this project is sourced from [Kaggle](https://ww
    ```
 
 6. **View results**:
-   - Classification accuracy comparisons are saved as tables and visual plots in the `results/` folder.
+   - Classification accuracy comparisons and all details about the project results can be seen in Report.pdf.
 
 ---
 
