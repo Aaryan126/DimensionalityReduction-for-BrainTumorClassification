@@ -29,36 +29,7 @@ The repository contains the following key sections:
 ### Dataset
 The brain tumor dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset). It contains labeled images of healthy and brain tumor cases.
 
----
-
-## How to Run the Project
-
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-link>
-   cd <repository-folder>
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Prepare the dataset**:
-   - Download the dataset from Kaggle.
-   - Place the dataset in the `data/` folder.
-
-4. **Run the pre-processing script**:
-   ```bash
-   python preprocess.py
-   ```
-
-5. **Run the main script** to evaluate dimensionality reduction techniques:
-   ```bash
-   python main.py
-   ```
-
-6. **View results**:
+**View results**:
    - Classification accuracy comparisons and all details about the project results can be seen in Report.pdf.
 
 ---
